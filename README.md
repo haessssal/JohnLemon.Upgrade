@@ -4,6 +4,6 @@ The basic game was made according th the Unity 3D Tutorial
 
 ### now working on ...~
 
-1. Added UI on the top of the main character's head
-2. Developed a monster AI that follows the character if it is more than a certain distance
-3. Processed data that can be quantified such as play time, score, etc. By using playerprefs
+1. Adding a UI above the main character's head
+2. Developing a monster AI that follows the character if it is beyond a certain distance
+3. Processing quantifiable data such as playtime and score using PlayerPrefs
